@@ -51,7 +51,8 @@
 ### 📊 GitHub Stats:
 <div align="center">
   
-![Md Khizar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username-here&show_icons=true&theme=tokyonight)
+![Md Khizar's GitHub stats](https://github-readme-stats.vercel.app/api?username=khizar9527&show_icons=true&theme=tokyonight)
+
 
 </div>
 
