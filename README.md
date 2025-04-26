@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Md Khizar Sufiyan!</h1>
 <h3 align="center">Aspiring Data Scientist | Data Analyst | Python Enthusiast</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Turning+data+into+insights+%F0%9F%94%AF;Learning+something+new+everyday+%F0%9F%8E%93;Data+Analytics+%7C+SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Turning+data+into+insights+%F0%9F%94%AF;Learning+something+new+everyday+%F0%9F%8E%93;Data+Analytics+%7C+SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG" />
 
 ---
 
